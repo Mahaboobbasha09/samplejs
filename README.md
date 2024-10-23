@@ -1,0 +1,2 @@
+# samplejs
+basics of javascript
